@@ -7,7 +7,7 @@ import edu.unisabana.dyas.patterns.utils.AudioPlayer;
 /**
  * Cliente que utiliza directamente AdvancedAudioPlayer sin conocer la interfaz AudioPlayer
  * 
- * @author andersonlopez
+ * @author andersonlopez, sandracuene
  */
 public class Client {
     public static void main(String[] args) {
