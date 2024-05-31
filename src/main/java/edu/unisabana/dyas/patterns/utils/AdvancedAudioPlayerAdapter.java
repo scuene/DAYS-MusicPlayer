@@ -4,7 +4,7 @@ package edu.unisabana.dyas.patterns.utils;
 /**
  * Clase adaptadora que permite a AudioPlayer utilizar la funcionalidad de AdvancedAudioPlayer
  * 
- * @author andersonlopez
+ * @author andersonlopez, sandracuene
  */
 public class AdvancedAudioPlayerAdapter implements AudioPlayer {
     private AdvancedAudioPlayer advancedAudioPlayer;

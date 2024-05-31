@@ -3,7 +3,7 @@ package edu.unisabana.dyas.patterns.utils;
 /**
  * Interfaz para el reproductor de audio
  * 
- * @author andersonlopez
+ * @author andersonlopez, sandracuene
  */
 public interface AudioPlayer {
     void play(String audioType, String fileName);
